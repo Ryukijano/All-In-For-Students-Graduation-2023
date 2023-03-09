@@ -90,4 +90,8 @@ Contact - students@allinopensource.org
 - Name: Cristina Genao
 - School: Miami Dade College
 - Favorite Quote: "I think being able to dive into things head first is a talent in and of itself." - Shinsuke Kita 
+---
+- Name: Gyanateet Dutta 
+- School: KIIT University 
+- Favourite Quote: "The only true wisdom is in knowing you know nothing." ― Socrates.
 
